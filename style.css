@@ -1,0 +1,29 @@
+body {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.titleBox {
+    padding-left: 15%;
+    padding-top: 5%;
+}
+
+.top {
+    background-color: #162447;
+    height: 150px;
+}
+
+.middle {
+    background-color: #1f4068;
+    height: 700px;
+}
+
+.bottom {
+    background-color: #1b1b2f;
+    height: 100px;
+}
